@@ -1,3 +1,7 @@
+# to check in your terminal put: sqlite3 name_of_database.db
+# when entering info SELECT category FROM projects; <---- make sure to have semi-colon at end!!
+
+
 # Write your sql queries in this file in the appropriate method like the example below:
 #
 # def select_category_from_projects
